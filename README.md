@@ -13,3 +13,5 @@ https://github.com/nihilistdbanana/ner_server
 ## ner-ui
 
 UI for Named Entity Recognition Project.
+
+Github Repo Link: https://github.com/vp09/ner-ui
