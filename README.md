@@ -8,3 +8,8 @@ A framework for NER using BERT(Bidirectional Encoder Representations from Transf
 A Java Spring boot based server that will provide NER's Machine Learning functions as APIs.
 
 https://github.com/nihilistdbanana/ner_server
+
+
+## ner-ui
+
+UI for Named Entity Recognition Project.
